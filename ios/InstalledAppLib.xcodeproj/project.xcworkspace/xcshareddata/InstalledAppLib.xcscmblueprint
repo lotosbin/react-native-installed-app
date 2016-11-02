@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "600E7A32D5A256CAFEA9CB3D662D5CB28D4CE126",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "A4D1CB0A657A0892EC17EB536F4C96B15C5EE19E" : 9223372036854775807,
+    "600E7A32D5A256CAFEA9CB3D662D5CB28D4CE126" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B0999945-BCC6-4994-AF82-A3BDC16678CC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "A4D1CB0A657A0892EC17EB536F4C96B15C5EE19E" : "..",
+    "600E7A32D5A256CAFEA9CB3D662D5CB28D4CE126" : "react-native-installed-app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "InstalledAppLib",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ios\/InstalledAppLib.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:lotosbin\/react-native-installed-app.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "600E7A32D5A256CAFEA9CB3D662D5CB28D4CE126"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/lotosbin\/react-native-installed-app-sample.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A4D1CB0A657A0892EC17EB536F4C96B15C5EE19E"
+    }
+  ]
+}
