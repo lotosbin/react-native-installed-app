@@ -12,14 +12,11 @@ import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.uimanager.ViewManager;
 
 
-/**
- * Created by lovebing on 3/25/16.
- */
 public class InstalledAppPackage implements ReactPackage {
     @Override
     public List<NativeModule> createNativeModules(ReactApplicationContext reactContext) {
         return Arrays.<NativeModule>asList(
-                new RongCloudIMLibModule(reactContext)
+                new InstalledAppModule(reactContext)
         );
     }
 
