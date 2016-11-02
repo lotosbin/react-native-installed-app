@@ -9,7 +9,7 @@ react native for  check app install status
 ```
 npm install -S https://github.com/lotosbin/react-native-installed-app.git
 ```
-```ecmascript 6 
+```
 import {Platform} from 'react-native';
 import InstalledApp from 'react-native-installed-app'; 
 
