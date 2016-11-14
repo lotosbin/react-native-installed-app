@@ -8,7 +8,9 @@ react native for  check app install status
 # usage
 ```
 npm install -S https://github.com/lotosbin/react-native-installed-app.git
+rnpm link react-native-installed-app
 ```
+
 ```
 import {Platform} from 'react-native';
 import InstalledApp from 'react-native-installed-app'; 
