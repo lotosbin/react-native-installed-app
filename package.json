@@ -1,7 +1,7 @@
 {
-  "name": "react-native-rongcloud-imlib",
+  "name": "react-native-installed-app",
   "version": "0.1.6",
-  "description": "RongCloud IMLib For React Native",
+  "description": "react native check app installed status",
   "main": "index.js",
   "dependencies": {
   },
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lovebing/react-native-rongcloud-imlib.git"
+    "url": "git+https://github.com/lotosbin/react-native-installed-app.git"
   },
   "keywords": [
     "RongCloud",
@@ -19,7 +19,7 @@
   "author": "lovebing",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lovebing/react-native-rongcloud-imlib/issues"
+    "url": "https://github.com/lotosbin/react-native-installed-app/issues"
   },
-  "homepage": "https://github.com/lovebing/react-native-rongcloud-imlib#readme"
+  "homepage": "https://github.com/lotosbin/react-native-installed-app#readme"
 }
