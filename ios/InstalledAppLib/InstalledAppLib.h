@@ -7,8 +7,6 @@
 //
 
 #import "RCTBridgeModule.h"
-#import "RCTEventDispatcher.h"
-#import "RCTBridge.h"
 
 
 @interface InstalledAppLib: NSObject <RCTBridgeModule> {
