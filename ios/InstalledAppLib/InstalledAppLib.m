@@ -7,6 +7,7 @@
 //
 
 #import "InstalledAppLib.h"
+#import <UIKit/UIKit.h>
 
 @implementation InstalledAppLib
 @synthesize bridge = _bridge;
